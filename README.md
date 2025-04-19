@@ -33,7 +33,8 @@ Most RAG pipelines:
 
 ## 🏗️ Architecture Overview
 ---
-![WhatsApp Image 2025-04-18 at 12 56 17_6b7c40f5](https://github.com/user-attachments/assets/37444305-e53b-446a-bd26-e6f84b91013a)
+![xRAG-LLM drawio (2)](https://github.com/user-attachments/assets/7eeccd28-1c81-49a9-a95e-0d85c7877e34)
+
 
 ---
 
