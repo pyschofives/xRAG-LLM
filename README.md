@@ -33,8 +33,8 @@ Most RAG pipelines:
 
 ## 🏗️ Architecture Overview
 
+![xrag drawio (1)](https://github.com/user-attachments/assets/49b92fa8-58d7-4469-a907-fc228c8c8ed1)
 
-![xrag drawio](https://github.com/user-attachments/assets/34093318-93e2-4b73-9b4f-4c74fa321c3d)
 
 
 
