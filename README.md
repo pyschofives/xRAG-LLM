@@ -32,8 +32,9 @@ Most RAG pipelines:
 ---
 
 ## 🏗️ Architecture Overview
-![xRAG-LLM drawio (2) drawio](https://github.com/user-attachments/assets/45f44554-7107-4745-94a8-95405a095292)
 
+
+![xrag drawio](https://github.com/user-attachments/assets/34093318-93e2-4b73-9b4f-4c74fa321c3d)
 
 
 
