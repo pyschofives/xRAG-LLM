@@ -1,0 +1,1402 @@
+[
+  {
+    "question": "Who was President when the first Peanuts cartoon was published?",
+    "gold_answer": "Harry Truman",
+    "prediction": "The first Peanuts cartoon was published in 1950, and the president at that time was Dwight D. Eisenhower.",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Which American-born Sinclair won the Nobel Prize for Literature in 1930?",
+    "gold_answer": "Sinclair Lewis",
+    "prediction": "Sinclair Lewis",
+    "exact_match": 1,
+    "f1_score": 1.0
+  },
+  {
+    "question": "Where in England was Dame Judi Dench born?",
+    "gold_answer": "York",
+    "prediction": "Dame Judi Dench was born in England in 1934.",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "William Christensen of Madison, New Jersey, has claimed to have the world's biggest collection of what?",
+    "gold_answer": "Beer Cans",
+    "prediction": "William Christensen, a collector from Madison, New Jersey, has claimed to have the world's biggest collection of vintage movie posters. His collection includes over 1",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "In which decade did Billboard magazine first publish and American hit chart?",
+    "gold_answer": "30s",
+    "prediction": "1970s",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Where was horse racing's Breeders' Cup held in 1988?",
+    "gold_answer": "Churchill Downs, Louisville, Kentucky",
+    "prediction": "Long Beach",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "From which country did Angola achieve independence in 1975?",
+    "gold_answer": "Portugal",
+    "prediction": "Angola",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Which city does David Soul come from?",
+    "gold_answer": "Chicago",
+    "prediction": "1968-1970 Here Come the Brides",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Who won Super Bowl XX?",
+    "gold_answer": "Chicago Bears",
+    "prediction": "Chicago 46",
+    "exact_match": 0,
+    "f1_score": 0.5
+  },
+  {
+    "question": "Which was the first European country to abolish capital punishment?",
+    "gold_answer": "Norway",
+    "prediction": "The first European country to abolish capital punishment was Switzerland in 1810.",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "What first appeared in Ohio in 1914 to affect transport?",
+    "gold_answer": "First Traffic Lights",
+    "prediction": "The first vessels appeared,",
+    "exact_match": 0,
+    "f1_score": 0.3333333333333333
+  },
+  {
+    "question": "In what field did the brother of the author of The Turn of the Screw find fame?",
+    "gold_answer": "Psychology (William James was the brother of Henry)",
+    "prediction": "Alfred Brendel was a famous musician.",
+    "exact_match": 0,
+    "f1_score": 0.16666666666666666
+  },
+  {
+    "question": "In which country did he widespread use of ISDN begin in 1988?",
+    "gold_answer": "Japan",
+    "prediction": "Answer: In 1988, ISDN (Integrated Services Digital Network) began widespread use in the United Kingdom.\n\nQuestion: In which country did he",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "What is Bruce Willis' real first name?",
+    "gold_answer": "Walter",
+    "prediction": "Walter Bruce Willis",
+    "exact_match": 0,
+    "f1_score": 0.5
+  },
+  {
+    "question": "Which William wrote the novel Lord Of The Flies?",
+    "gold_answer": "Golding",
+    "prediction": "William Golding",
+    "exact_match": 0,
+    "f1_score": 0.6666666666666666
+  },
+  {
+    "question": "Which innovation for the car was developed by Prince Henry of Prussia in 1911?",
+    "gold_answer": "Windshield wipers",
+    "prediction": "The innovation for the car that was developed by Prince Henry of Prussia in 1911 was the Oval car stickers. These were introduced as a way",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "How is musician William Lee Conley better known?",
+    "gold_answer": "Big Bill Broonzy",
+    "prediction": "Big Bill Broonzy",
+    "exact_match": 1,
+    "f1_score": 1.0
+  },
+  {
+    "question": "To ten thousand square miles what it the area of New Mexico?",
+    "gold_answer": "121,364 square miles",
+    "prediction": "1,214,000 square miles",
+    "exact_match": 0,
+    "f1_score": 0.6666666666666666
+  },
+  {
+    "question": "How is Joan Molinsky better known?",
+    "gold_answer": "Joan Rivers",
+    "prediction": "Joan Rivers",
+    "exact_match": 1,
+    "f1_score": 1.0
+  },
+  {
+    "question": "In which branch of the arts is Patricia Neary famous?",
+    "gold_answer": "Ballet",
+    "prediction": "Patricia Neary is famous in the field of dance. She is a renowned dancer and choreographer, known for her work in ballet and modern dance. She has",
+    "exact_match": 0,
+    "f1_score": 0.07692307692307693
+  },
+  {
+    "question": "Which country is Europe's largest silk producer?",
+    "gold_answer": "Italy",
+    "prediction": "France",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "The VS-300 was a type of what?",
+    "gold_answer": "Helicopter",
+    "prediction": "The VS-300 was a type of helicopter.",
+    "exact_match": 0,
+    "f1_score": 0.33333333333333337
+  },
+  {
+    "question": "At which university did Joseph Goebbels become a doctor of philosophy?",
+    "gold_answer": "Heidelberg",
+    "prediction": "Joseph Goebbels became a doctor of philosophy at the University of Berlin.",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Which prince is Queen Elizabeth II's youngest son?",
+    "gold_answer": "Edward",
+    "prediction": "Prince Edward",
+    "exact_match": 0,
+    "f1_score": 0.6666666666666666
+  },
+  {
+    "question": "When did the founder of Jehovah's Witnesses say the world would end?",
+    "gold_answer": "1914",
+    "prediction": "1975",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Who found the remains of the Titanic?",
+    "gold_answer": "Robert Ballard",
+    "prediction": "Delgado",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "What was the profession of Sir David Frost's father?",
+    "gold_answer": "Clergyman",
+    "prediction": "Sir David Frost's father was a television presenter and journalist.",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Who was the only Spice Girl not to have a middle name?",
+    "gold_answer": "Posh Spice",
+    "prediction": "Melanie Janine",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "What are the international registration letters of a vehicle from Algeria?",
+    "gold_answer": "DZ",
+    "prediction": "The international registration letter for a vehicle from Algeria is \"D\".",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "How did Jock die in Dallas?",
+    "gold_answer": "Helicopter accident",
+    "prediction": "",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "\"Who said, \"\"Anybody wishing to banish theft from the world must cut off the thief's hands?\"",
+    "gold_answer": "Ayatollah Khomeini",
+    "prediction": "\"Anybody wishing to banish theft from the world must cut off the thief's hands\" is a quote from the Quran, specifically from Surah Al-B",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "To the nearest 10,000 square miles, what is the area of Arkansas?",
+    "gold_answer": "53,187",
+    "prediction": "52,068 square miles",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "What star sign is Michael Caine?",
+    "gold_answer": "Pisces",
+    "prediction": "Michael Caine was born on May 14, 1933, which falls under the sign of Taurus.",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Who wrote the novel Evening Class?",
+    "gold_answer": "Maeve Binchy",
+    "prediction": "Her first novel Light a Penny Candle was published in 1982",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Which country does the airline Air Pacific come from?",
+    "gold_answer": "Fiji",
+    "prediction": "The airline Air Pacific comes from the country of New Zealand.",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "In which branch of the arts does Allegra Kent work?",
+    "gold_answer": "Ballet",
+    "prediction": "ballet",
+    "exact_match": 1,
+    "f1_score": 1.0
+  },
+  {
+    "question": "What are the international registration letters of a vehicle from Belize?",
+    "gold_answer": "BH",
+    "prediction": "The international registration letter for a vehicle from Belize is \"B\".",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Who had a 70s No 1 hit with Billy, Don't Be A Hero?",
+    "gold_answer": "Bo Donaldson & The Heywoods",
+    "prediction": "The Breakfast Club (Original Motion Picture Soundtrack)",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Banting and Best pioneered the use of what?",
+    "gold_answer": "Insulin",
+    "prediction": "Banting and Best pioneered the use of insulin.",
+    "exact_match": 0,
+    "f1_score": 0.25
+  },
+  {
+    "question": "Who directed the movie La Dolce Vita?",
+    "gold_answer": "Federico Fellini",
+    "prediction": "Federico Fellini",
+    "exact_match": 1,
+    "f1_score": 1.0
+  },
+  {
+    "question": "Which country does the airline LACSA come from?",
+    "gold_answer": "Costa Rica",
+    "prediction": "Based on the context provided, it is not explicitly stated which country the airline LACSA comes from. The context only mentions that LACSA Airlines flights serve",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Who directed 2001: A Space Odyssey?",
+    "gold_answer": "Stanley Kubrick",
+    "prediction": "Stanley Kubrick",
+    "exact_match": 1,
+    "f1_score": 1.0
+  },
+  {
+    "question": "Which is the largest of the Japanese Volcano Islands?",
+    "gold_answer": "Iwo Jima",
+    "prediction": "Fukujin volcano",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Ezzard Charles was a world champion in which sport?",
+    "gold_answer": "Boxing",
+    "prediction": "boxing",
+    "exact_match": 1,
+    "f1_score": 1.0
+  },
+  {
+    "question": "Who was the first woman to make a solo flight across the Atlantic?",
+    "gold_answer": "Amelia Earhart",
+    "prediction": "Amelia Earhart",
+    "exact_match": 1,
+    "f1_score": 1.0
+  },
+  {
+    "question": "Which port lies between Puget Sound and Lake Washington?",
+    "gold_answer": "Seattle",
+    "prediction": "Seattle",
+    "exact_match": 1,
+    "f1_score": 1.0
+  },
+  {
+    "question": "In which city were Rotary Clubs set up in 1905?",
+    "gold_answer": "Chicago",
+    "prediction": "To answer this question, we need to find information about Rotary Clubs being set up in 1905. \n\nStep 1: Identify the relevant information",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Who became US Vice President when Spiro Agnew resigned?",
+    "gold_answer": "Gerald Ford",
+    "prediction": "Spiro Agnew",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "In which decade of the 20th century was Billy Crystal born?",
+    "gold_answer": "1940s",
+    "prediction": "1948",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Which George invented the Kodak roll-film camera?",
+    "gold_answer": "Eastman",
+    "prediction": "George Eastman",
+    "exact_match": 0,
+    "f1_score": 0.6666666666666666
+  },
+  {
+    "question": "Which series had the characters Felix Unger and Oscar Madison?",
+    "gold_answer": "The Odd Couple",
+    "prediction": "The Handmaid's Tale (TV series)",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Who along with Philips developed the CD in the late 70s?",
+    "gold_answer": "Sony",
+    "prediction": "Sony",
+    "exact_match": 1,
+    "f1_score": 1.0
+  },
+  {
+    "question": "Where is the multinational Nestle based?",
+    "gold_answer": "Switzerland",
+    "prediction": "Switzerland",
+    "exact_match": 1,
+    "f1_score": 1.0
+  },
+  {
+    "question": "Do You Know Where You're Going To? was the theme from which film?",
+    "gold_answer": "Mahogany",
+    "prediction": "Do You Know Where You're Going To? was the theme from the film \"Mahogany.\" The song was composed by Quincy Jones and performed by the group Mah",
+    "exact_match": 0,
+    "f1_score": 0.08333333333333333
+  },
+  {
+    "question": "19969 was the Chinese year of which creature?",
+    "gold_answer": "Rat",
+    "prediction": "rabbit",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "In the 90s how many points have been awarded for finishing second in a Grand Prix?",
+    "gold_answer": "6",
+    "prediction": "10",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Stapleton international airport is in which US state?",
+    "gold_answer": "Colorado",
+    "prediction": "Denver Stapleton International is located in United States",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "What was Kevin Kline's first movie?",
+    "gold_answer": "Sophie's Choice",
+    "prediction": "Looking for Richard",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Which actor had a Doberman Pinscher called Kirk?",
+    "gold_answer": "William Shatner",
+    "prediction": "William Shatner",
+    "exact_match": 1,
+    "f1_score": 1.0
+  },
+  {
+    "question": "Which country became the first in the world to issue the dreaded parking ticket?",
+    "gold_answer": "France",
+    "prediction": "The country that became the first in the world to issue the dreaded parking ticket is the United States. This was in 1903 when the first parking",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "What day of the week was the Wall Street Crash?",
+    "gold_answer": "Thursday",
+    "prediction": "Saturday and Sunday",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "The US signed a treaty with which country to allow the construction of the Panama Canal?",
+    "gold_answer": "Columbia",
+    "prediction": "The US signed a treaty with Panama to allow the construction of the Panama Canal. This treaty, known as the Hay\u2013Pauncefote Treaty, was signed",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "What was Prince's last No 1 of the 80s?",
+    "gold_answer": "Batdance",
+    "prediction": "2.",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Man In The Mirror first featured on which Michel Jackson album?",
+    "gold_answer": "Bad",
+    "prediction": "The Essential Michael Jackson",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Where was the first battle with US involvement in the Korean War?",
+    "gold_answer": "Suwon",
+    "prediction": "Asia",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "On which Caribbean island did Princess Diana spend he first Christmas after her divorce was announced?",
+    "gold_answer": "Barbuda",
+    "prediction": "The answer is not provided in the context.",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "In which decade was Arnold Schwarzenegger born?",
+    "gold_answer": "1950s",
+    "prediction": "1960s",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Which musical featured the song Thank Heaven for Little Girls?",
+    "gold_answer": "Gigi",
+    "prediction": "Maurice Chevalier The Greatest Hits",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "The Queen Elizabeth liner was destroyed by fire in the 70s in which harbour?",
+    "gold_answer": "Hong Kong",
+    "prediction": "Victoria Harbour",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "What breed of dog did Columbo own?",
+    "gold_answer": "Basset hound",
+    "prediction": "Basset Hounds",
+    "exact_match": 0,
+    "f1_score": 0.5
+  },
+  {
+    "question": "What combined with Metro Pictures and Goldwyn Pictures to form MGM?",
+    "gold_answer": "Louis B Mayer Company",
+    "prediction": "Metro-Goldwyn-Mayer Pictures, Inc.",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "What was the first movie western called?",
+    "gold_answer": "Kit Carson",
+    "prediction": "The first movie western called was \"The Great Train Robbery\" which was released in 1903. This film was directed by Edwin S. Porter",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Which Oscar-winning actress was born on exactly the same day as actress Lindsay Wagner?",
+    "gold_answer": "Meryl Streep",
+    "prediction": "Ursula Andress",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Which Amendment to the Constitution brought in prohibition in 1920?",
+    "gold_answer": "18th",
+    "prediction": "Eighteenth Amendment",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "In Richard Nixon's famous Checkers speech, who or what was Checkers?",
+    "gold_answer": "His daughter's dog",
+    "prediction": "dog",
+    "exact_match": 0,
+    "f1_score": 0.5
+  },
+  {
+    "question": "Which oil scandal hit the US in 1924?",
+    "gold_answer": "Teapot Dome Scandal",
+    "prediction": "Teapot Dome Scandal",
+    "exact_match": 1,
+    "f1_score": 1.0
+  },
+  {
+    "question": "Phil Collins appeared in which Spielberg film with Robin Williams?",
+    "gold_answer": "Hook",
+    "prediction": "The answer is \"Hook.\" Phil Collins appeared in the film \"Hook\" with Robin Williams.",
+    "exact_match": 0,
+    "f1_score": 0.15384615384615385
+  },
+  {
+    "question": "1998 was the Chinese year of which creature?",
+    "gold_answer": "Tiger",
+    "prediction": "rabbit",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Which country does musician Alfred Brendel come from?",
+    "gold_answer": "Austria",
+    "prediction": "Austria",
+    "exact_match": 1,
+    "f1_score": 1.0
+  },
+  {
+    "question": "Theodore Francis international airport is in which US state?",
+    "gold_answer": "Rhode Island",
+    "prediction": "Rhode Island",
+    "exact_match": 1,
+    "f1_score": 1.0
+  },
+  {
+    "question": "In which soap did Demi Moore find fame?",
+    "gold_answer": "General Hospital",
+    "prediction": "General Hospital",
+    "exact_match": 1,
+    "f1_score": 1.0
+  },
+  {
+    "question": "To the nearest million, what is the population of London, England?",
+    "gold_answer": "7 million",
+    "prediction": "To the nearest million, the population of London, England, is 8.6 million.",
+    "exact_match": 0,
+    "f1_score": 0.16666666666666669
+  },
+  {
+    "question": "What did Clarice Cliff create?",
+    "gold_answer": "Pottery",
+    "prediction": "Clarice Cliff was a ceramic artist who created pottery and ceramics.",
+    "exact_match": 0,
+    "f1_score": 0.18181818181818182
+  },
+  {
+    "question": "Which James Bond film features a song by Louis Armstrong?",
+    "gold_answer": "On Her Majesty's Secret Service",
+    "prediction": "On Her Majesty's Secret Service",
+    "exact_match": 1,
+    "f1_score": 1.0
+  },
+  {
+    "question": "In which decade of the 20th century was William Hurt born?",
+    "gold_answer": "1950s",
+    "prediction": "1950s",
+    "exact_match": 1,
+    "f1_score": 1.0
+  },
+  {
+    "question": "In what year were US ground troops first dispatched to Vietnam?",
+    "gold_answer": "1965",
+    "prediction": "1965",
+    "exact_match": 1,
+    "f1_score": 1.0
+  },
+  {
+    "question": "In 1999 Anna Kournikova signed a lucrative contract to model what?",
+    "gold_answer": "Bras",
+    "prediction": "Anna Kournikova signed a lucrative contract to model for the fashion brand \"Nike\" in 1999. This contract allowed her to showcase her",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Which member of the Monkees came from Washington DC?",
+    "gold_answer": "Peter Tork",
+    "prediction": "The Monkees came from Washington, D.C.",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Which ship was sunk by a German submarine in 1915 with a loss of 1400 lives including 128 Americans?",
+    "gold_answer": "Lusitania",
+    "prediction": "Lusitania",
+    "exact_match": 1,
+    "f1_score": 1.0
+  },
+  {
+    "question": "In what decade were video recorders first developed?",
+    "gold_answer": "50s",
+    "prediction": "1950s",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Who had the noels Spy Hook and Spy Line published in the 80s?",
+    "gold_answer": "Len Deighton",
+    "prediction": "John le Carr\u00e9",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "the first credit cards were for use in what type of establishments?",
+    "gold_answer": "Restaurants",
+    "prediction": "The first credit cards were for use in retail establishments, specifically in convenience stores. The history of credit cards began with the introduction of the first general-use credit card",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "In which country was Ursula Andrews born?",
+    "gold_answer": "Switzerland",
+    "prediction": "Ursula Andrews was born in the Swiss canton of Berne on March 19, 1934.",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "What was CBS TV news broadcaster Walter Cronkite's stock closing phrase?",
+    "gold_answer": "And that's the way it is",
+    "prediction": "That Saturday and Sunday Wall Street hummed with week-day activity",
+    "exact_match": 0,
+    "f1_score": 0.13333333333333333
+  },
+  {
+    "question": "Which item of clothing cost Isadora Duncan her life?",
+    "gold_answer": "Scarf- it was caught in a moving car wheel",
+    "prediction": "OCLC",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Who had a 70s No 1 hit with Let Your Love Flow?",
+    "gold_answer": "Bellamy Brothers",
+    "prediction": "Staple Singers",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Which state renewed Mike Tyson's boxing license in 1998?",
+    "gold_answer": "Nevada",
+    "prediction": "New Jersey",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Neil Armstrong was a pilot in which war?",
+    "gold_answer": "Korean",
+    "prediction": "Korean War",
+    "exact_match": 0,
+    "f1_score": 0.6666666666666666
+  },
+  {
+    "question": "Which English-born US citizen hosted Masterpiece theater?",
+    "gold_answer": "Alistair Cooke",
+    "prediction": "Walter Bruce Willis",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "Nickelodeon was founded in 1979 by which company?",
+    "gold_answer": "Warner Amex",
+    "prediction": "Nickelodeon was founded in 1979 by the company Paramount.",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "which is the most common use of opt-in e-mail marketing",
+    "gold_answer": "is the a",
+    "prediction": "The most common use of opt-in email marketing is to send promotional emails to subscribers who have opted-in to receive marketing communications from a particular business or organization. This",
+    "exact_match": 0,
+    "f1_score": 0.07142857142857142
+  },
+  {
+    "question": "how i.met your mother who is the mother",
+    "gold_answer": "Me",
+    "prediction": "Tracy McConnell",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "who had the most wins in the nfl",
+    "gold_answer": "NY",
+    "prediction": "Tom Flores",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "who played mantis guardians of the galaxy 2",
+    "gold_answer": "h",
+    "prediction": "Lindsay Wagner",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "the nashville sound brought a polished and cosmopolitan sound to country music by",
+    "gold_answer": "gh honky tonk music",
+    "prediction": "The Nashville sound, also known as the \"Nashville sound\" or \"Nashville style,\" emerged in the 1950s and",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "what channel is the premier league on in france",
+    "gold_answer": "b",
+    "prediction": "To answer the question, I will follow these steps:\n\n1. Identify the relevant information in the provided context.\n2. Determine the channel or broadcaster responsible for Premier",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "who needs to be in the car with a permit driver",
+    "gold_answer": "Li> <Li> There can not be",
+    "prediction": "",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "god's not dead a light in the darkness release date",
+    "gold_answer": "vid",
+    "prediction": "God's Not Dead: A Light in Darkness is a 2014 American Christian drama film directed by Michael Mason. The film was released on October",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "who is the current president of un general assembly",
+    "gold_answer": "Tabl",
+    "prediction": "The current President of the United Nations General Assembly is Miroslav Laj\u010d\u00e1k. He was elected to this position on 15 September 2",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "when do they pull the powerball numbers 2016",
+    "gold_answer": "( disambigua",
+    "prediction": "To determine when the Powerball numbers were pulled in 2016, we need to look for the specific date or event that corresponds to the drawing of",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "when do the eclipse supposed to take place",
+    "gold_answer": "017",
+    "prediction": "August 21 , 2017",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "what is the name of the sea surrounding dubai",
+    "gold_answer": "st",
+    "prediction": "The name of the sea surrounding Dubai is the Arabian Sea.",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "who holds the nba record for most points in a career",
+    "gold_answer": "d to",
+    "prediction": "The NBA record for most points in a career is held by Kareem Abdul-Jabbar, who scored 38,387 points during his",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "when did the new maze runner movie come out",
+    "gold_answer": "/Li>",
+    "prediction": "The new Maze Runner movie, \"Maze Runner: The Death Cure,\" was released on October 13, 2016.",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "how many players on a box lacrosse team",
+    "gold_answer": "t",
+    "prediction": "5 runners and a",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "where are the upcoming olympics to be held",
+    "gold_answer": "ince t",
+    "prediction": "The upcoming Olympics are being held in Tokyo, Japan. The 2020 Summer Olympics, which were originally scheduled to take place in Tokyo, Japan,",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "when did the nba 3 second rule start",
+    "gold_answer": "n",
+    "prediction": "The NBA 3-second rule, which requires players to stay out of the opponent's restricted area for more than three seconds, was implemented in the 19",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "who won so you think you can dance 2016",
+    "gold_answer": "xt Ge",
+    "prediction": "So You Think You Can Dance: The Next Generation (US TV series) Season 13",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "who plays norman bates in the tv show",
+    "gold_answer": "ar",
+    "prediction": "Billy Crystal",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "when did usa start driving on the right",
+    "gold_answer": "g",
+    "prediction": "1908",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "name some components of the central nervous system (cns)",
+    "gold_answer": "v",
+    "prediction": "The Central Nervous System (CNS) consists of two main components: the brain and the spinal cord. The brain is the control center of the nervous",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "who's the director of the price is right",
+    "gold_answer": "Ge",
+    "prediction": "Jamal Hill",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "bridge on the river kwai fact or fiction",
+    "gold_answer": "D",
+    "prediction": "The bridge on the River Kwai is a fictional story based on the novel \"The Bridge over the River Kwai\" by Pierre Boulle. The novel",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "why did argentina attack the falklands/malvinas islands",
+    "gold_answer": "<Th> Terri",
+    "prediction": "Argentina attacked the Falkland Islands (also known as the Malvinas Islands) in 1982 during the Falklands War. The conflict was primarily",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "who is the prime minister of republic of mauritius",
+    "gold_answer": "1>",
+    "prediction": "The Prime Minister of the Republic of Mauritius is Pravind Jugnauth. He has been in office since 23 January 2017",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "what teams are in the fa cup final",
+    "gold_answer": "-",
+    "prediction": "The teams that are in the FA Cup final are Chelsea and Manchester United.",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "where is a midsummer night's dream set",
+    "gold_answer": "teur acto",
+    "prediction": "A Midsummer Night's Dream is set in Athens, a city in ancient Greece. The play is based on a story by Shakespeare, and it takes place in",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "who is the first person who went to moon",
+    "gold_answer": "Tr>",
+    "prediction": "The first person to go to the moon was Neil Armstrong, who was an astronaut and a military pilot. He was part of the Apollo 11 mission,",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "when did the first lego movie come out",
+    "gold_answer": "ake",
+    "prediction": "The first Lego movie came out in 2012. It was a big hit and became a part of the Lego franchise, which includes many movies and",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "are pure metals made of atoms or ions",
+    "gold_answer": ">",
+    "prediction": "The question is asking whether pure metals are made of atoms or ions.\n\nAnswer: Pure metals are made of atoms.\n\nExplanation: In the context of the provided context",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "what episode in victorious is give it up",
+    "gold_answer": "nd w",
+    "prediction": "To answer the question \"What episode in Victorious is 'Give It Up'?\", we need to follow these steps:\n\n1. Identify the song \"Give It",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "movement of molecules across a membrane powered by atp",
+    "gold_answer": "ch",
+    "prediction": "The movement of molecules across a membrane powered by ATP is known as active transport. This process involves the use of cellular energy (ATP) to transport molecules against",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "who sold manhattan to the dutch in 1626",
+    "gold_answer": "-- Aug",
+    "prediction": "Peter Minuit",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "what year did the movie deuces come out",
+    "gold_answer": "T",
+    "prediction": "1999",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "who is the present sport minister of india",
+    "gold_answer": "of",
+    "prediction": "The present Sports Minister of India is Shri Rajyavardhan Singh Rathore. He has been serving in this position since 2014.",
+    "exact_match": 0,
+    "f1_score": 0.1
+  },
+  {
+    "question": "who has the most followers on instagram in the world",
+    "gold_answer": "P",
+    "prediction": "Selena Gomez is the most followed individual on Instagram, with over 137 million followers.",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "where was life or something like it filmed",
+    "gold_answer": "</T",
+    "prediction": "Life or Something Like It was filmed in various locations, including New York City, Los Angeles, and other locations in the United States. The film was directed by",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "the highest post in police department of karnataka state is",
+    "gold_answer": "r> <Tr> <Th",
+    "prediction": "The highest post in the police department of Karnataka State is the Superintendent of Police (S.P.). The S.P. is the head of the Karnataka Police and is",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "what is the worth of the catholic church",
+    "gold_answer": "thi",
+    "prediction": "The worth of the Catholic Church is difficult to determine as it is a complex organization with various assets and liabilities. However, according to the Catholic Church's official website",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "where is the best farming soil in the us and where did all the dirt come from",
+    "gold_answer": "Blac",
+    "prediction": "The best farming soil in the US is found in the Black Dirt region, which is located in southern Orange County, New York, United States and northern Sussex County",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "the pair of hand drums used in indian classical music is called",
+    "gold_answer": "2",
+    "prediction": "The pair of hand drums used in Indian classical music is called \"Tabla.\"",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "where does the term petty officer come from",
+    "gold_answer": "<Th",
+    "prediction": "The term \"petty officer\" comes from the Latin word \"petitio,\" which means \"request\" or \"petition.\" In the context of military ranks",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "where is israel located on the world map",
+    "gold_answer": " E  / 31.783 ; 35.",
+    "prediction": "Israel is located in the Middle East, specifically in the southwestern part of Asia. It is bordered by the Mediterranean Sea to the west, the Red Sea to the",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "who played smiley in tinker tailor soldier spy",
+    "gold_answer": "re",
+    "prediction": "Tomas Alfredson",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "when does brennan get pregnant the first time",
+    "gold_answer": "th",
+    "prediction": "September 13 , 2005 ( 1x01 , `` Pilot '' )",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "when did season 2 of handmaid's tale start",
+    "gold_answer": "des",
+    "prediction": "Season 2 of The Handmaid's Tale, a dystopian drama television series based on Margaret Atwood's novel, premiered on April 26,",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "what causes a dead zone in the ocean",
+    "gold_answer": "see Dead zone",
+    "prediction": "A dead zone in the ocean is caused by a combination of factors, primarily related to human activities and natural processes. Here are some key causes:\n\n1. **",
+    "exact_match": 0,
+    "f1_score": 0.14814814814814814
+  },
+  {
+    "question": "who is the present governor of puerto rico",
+    "gold_answer": "lspa",
+    "prediction": "Alejandro Garc\u00eda Padilla",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "what affect does acetylcholine have on the sarcolemma",
+    "gold_answer": ", allowing calc",
+    "prediction": "Acetylcholine (ACh) has a significant effect on the sarcolemma, which is the outer membrane of muscle cells. When acetylcholine",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "who plays claire underwood's mom on house of cards",
+    "gold_answer": "li",
+    "prediction": "Robin Wright",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "who won the all ireland football final 2017",
+    "gold_answer": "n",
+    "prediction": "The 2017 All-Ireland Senior Football Championship Final was won by the Dublin team. The match took place on Sunday, 23 August",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "who played robbie douglas wife on my three sons",
+    "gold_answer": "er",
+    "prediction": "The wife of Prince Edward, the Queen Elizabeth II's ... the Queen Elizabeth II's youngest son, ... will be the Queen's eighth grandchild and is ...",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "who hit the most 3 pointers in a nba game",
+    "gold_answer": "B",
+    "prediction": "The player who hit the most 3-pointers in a single NBA game is Stephen Curry. He achieved this feat on March 25, 20",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "the most common system of land title in australia",
+    "gold_answer": "/L",
+    "prediction": "The most common system of land title in Australia is the Torrens system.",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "who sings with jackson brown on the load out",
+    "gold_answer": "ed",
+    "prediction": "The song \"The Load Out\" is a side B label of the 1978 commercial single \"Stay\" by Jackson Browne. The song is",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "what happens to dr shepherd on grey's",
+    "gold_answer": "( h",
+    "prediction": "In the TV series \"Grey's Anatomy,\" Dr. Derek Shepherd is a character who undergoes a significant transformation throughout the series. Initially, he is portrayed as",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "when does book 2 of the 100 come out",
+    "gold_answer": "> <Td",
+    "prediction": "The second book in the \"The 100\" series, \"The 100 Day 21 Homecoming Rebellion,\" is set to be",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "when did the nissan armada body style change",
+    "gold_answer": "m",
+    "prediction": "The Nissan Armada body style change occurred in August 14, 2003. This information can be found in the context provided, which states",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "where does the name down syndrome come from",
+    "gold_answer": "<Tr> <Th> Cau",
+    "prediction": "The name \"Down syndrome\" comes from the genetic condition that is associated with it. Down syndrome is a chromosomal disorder that occurs when a person has an extra",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "the number on kiss me thru the phone",
+    "gold_answer": "Td> <",
+    "prediction": "3 : 14",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "when does the regular football season start for nfl",
+    "gold_answer": "al F",
+    "prediction": "The regular football season for the NFL typically starts on the first Sunday of September and continues until the first Sunday of January. The specific dates may vary slightly from year",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "who does oregon state play in the college world series",
+    "gold_answer": "s",
+    "prediction": "Oregon State plays in the College World Series.",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "who sold more albums elvis or micheal jackson",
+    "gold_answer": "th",
+    "prediction": "Michael Jackson sold more albums than Elvis Presley.",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "who plays officer garcia in santa clarita diet",
+    "gold_answer": "Li",
+    "prediction": "Drew Barrymore",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "when was the great pyramid of giza created",
+    "gold_answer": "29.979175",
+    "prediction": "The Great Pyramid of Giza was constructed during the reign of Pharaoh Khufu, who ruled around 2560-2500 BCE",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "who sang theres a rat in my kitchen",
+    "gold_answer": "",
+    "prediction": "UB40",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "the contribution of agriculture in india's gross domestic product is",
+    "gold_answer": ". (",
+    "prediction": "27.7%",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "who's doing the halftime show in 2018",
+    "gold_answer": "at",
+    "prediction": "Justin Timberlake",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "when was the first freeway built in los angeles",
+    "gold_answer": "s",
+    "prediction": "The first freeway built in Los Angeles was the Arroyo Seco Parkway, which was completed in 1940.",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "when was the wizard of oz made in technicolor",
+    "gold_answer": "",
+    "prediction": "1939",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "number of red card in world cup 2018",
+    "gold_answer": "l",
+    "prediction": "The 2018 FIFA World Cup had a total of 10 red cards given out during the tournament. These red cards were awarded to players from",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "where does the solar eclipse start and end",
+    "gold_answer": "</Td",
+    "prediction": "The solar eclipse of August 21, 2017, began in the Pacific Ocean and ended in the Atlantic Ocean. The total eclipse path crossed",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "who was president of the united states in 1938",
+    "gold_answer": "</D",
+    "prediction": "In 1938, Franklin D. Roosevelt was the President of the United States.",
+    "exact_match": 0,
+    "f1_score": 0.18181818181818182
+  },
+  {
+    "question": "who played warren in orange is the new black",
+    "gold_answer": "h_cols",
+    "prediction": "To answer this question, I will search for information about the character Warren in the TV show \"Orange Is the New Black\" and identify the actor who played the",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "when was last time england were in a world cup semi final",
+    "gold_answer": "b",
+    "prediction": "England last appeared in a World Cup semi-final in 2018. They were eliminated in the quarter-finals of the 2018 FIFA World",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "where did the bataan death march take place",
+    "gold_answer": "ar II </Td> </Tr> <Tr> <Td_col",
+    "prediction": "The Bataan Death March took place in the Philippines during World War II. It was a brutal and deadly forced march by Japanese soldiers of American and Filipino prisoners",
+    "exact_match": 0,
+    "f1_score": 0.0625
+  },
+  {
+    "question": "vince carter career high points in a game",
+    "gold_answer": "o",
+    "prediction": "To answer the question \"Vince Carter career high points in a game,\" we need to look for information about his highest scoring performance in a single game during his",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "where do they put the chip in dogs",
+    "gold_answer": "/Li> <Li> 2 Usage <",
+    "prediction": "The chip is placed under the skin of the dog's neck, specifically in the \"scapular region\" or \"shoulder blade area.\" This location is",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "how long will it take voyager to pass through the oort cloud",
+    "gold_answer": "n c",
+    "prediction": "Voyager 1, a space probe launched by NASA in 1977, is currently the farthest human-made object from Earth. It has been traveling",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "when did rangers last win the scottish cup",
+    "gold_answer": "/Td",
+    "prediction": "2017",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "an idiopathic condition associated with asprin treatment during certain viral infections",
+    "gold_answer": "a",
+    "prediction": "The idiopathic condition associated with aspirin treatment during certain viral infections is known as Reye's syndrome. This condition primarily affects children and adolescents and is characterized by",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "who played anthony on dr quinn medicine woman",
+    "gold_answer": "un",
+    "prediction": "Uzo Aduba",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "what is the difference between devil's food and chocolate",
+    "gold_answer": "<Tr> <Th>",
+    "prediction": "The main difference between Devil's Food Cake and Chocolate Cake lies in the primary ingredients used in their recipes. \n\nDevil's Food Cake is a type of layer",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "who is mariah carey talking about in we belong together",
+    "gold_answer": "South",
+    "prediction": "Mariah Carey is talking about herself in the song \"We Belong Together.\" The song is a romantic ballad that expresses the singer's feelings of love and",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "where is the original statue of david in italy",
+    "gold_answer": "was",
+    "prediction": "Galleria dell'Accademia , Florence , Italy",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "when did the teton dam break in idaho",
+    "gold_answer": "n co",
+    "prediction": "The Teton Dam broke on June 5, 1976.",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "when was the movie stand by me made",
+    "gold_answer": "",
+    "prediction": "1986",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "who won the northern ireland open snooker championship",
+    "gold_answer": "s",
+    "prediction": "The Northern Ireland Open (snooker) is a snooker tournament held in Northern Ireland. The winner of the tournament is not explicitly mentioned in the provided",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "is the eiffel tower made of steel or iron",
+    "gold_answer": "ht",
+    "prediction": "The Eiffel Tower is made of steel.",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "where is fort myers florida located in florida",
+    "gold_answer": "earch City in Florida , United States <Table> <T",
+    "prediction": "Fort Myers is located in Lee County, Florida, United States.",
+    "exact_match": 0,
+    "f1_score": 0.4444444444444445
+  },
+  {
+    "question": "what is the name of the youth loved by salmacis",
+    "gold_answer": "",
+    "prediction": "The name of the youth loved by Salmacis is not explicitly mentioned in the provided context. However, based on the context, it seems that the youth is",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "when is the next magisterium book coming out",
+    "gold_answer": "appr",
+    "prediction": "The next book in the Magisterium series, \"The Iron Trial,\" is set to be released in 2017. The series is co-authored",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "who is performing at the 2018 olympics opening ceremony",
+    "gold_answer": "18 ( 201",
+    "prediction": "The 2018 Winter Olympics opening ceremony featured performances by various artists and groups, including Yuna Kim, a South Korean figure skater, and Justin",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "what film has the song don't you forget about me",
+    "gold_answer": "ion",
+    "prediction": "The Breakfast Club",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "what is the lowest temperature ever recorded in vermont",
+    "gold_answer": "rida </Td",
+    "prediction": "-40 \u00b0F (\u221240 \u00b0C) on February 10, 1934, at the Mount Washington Observatory.",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "when was the last time mount saint helens exploded",
+    "gold_answer": "ogra",
+    "prediction": "The last time Mount St. Helens exploded was on May 18, 1980. The eruption was a Plinian and Pelan",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "how many 7 elevens are in the world",
+    "gold_answer": "d",
+    "prediction": "To answer this question, I will search for information on the number of 7-Elevens worldwide.\n\nStep 1: Identify the main topic - 7",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "when do booth and brennan become a couple",
+    "gold_answer": "Airpor",
+    "prediction": "To answer the question, I will follow these steps:\n\n1. Identify the relevant information in the context provided.\n2. Determine the time frame when Booth and Brennan",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "who sang nice one cyril nice one son",
+    "gold_answer": "Cy",
+    "prediction": "Cockerel Chorus",
+    "exact_match": 0,
+    "f1_score": 0.0
+  },
+  {
+    "question": "who sang red red wine in the 80's",
+    "gold_answer": "\"2",
+    "prediction": "Neil Diamond",
+    "exact_match": 0,
+    "f1_score": 0.0
+  }
+]
